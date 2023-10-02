@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="act1_text">1-st Activity</string>
+    <string name="act2_text">2-nd Activity</string>
+    <string name="act1_btn1">Go to 2-nd Activity</string>
+    <string name="act1_btn2">Dialog</string>
+    <string name="act2_btn_back">Back</string>
+    <string name="dialog_message">Dialog message</string>
+    <string name="dialog_title">4 Group\'s dialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string-array name="names">
+        <item>Denis Nazarovs</item>
+        <item>Lidziya Kamynina</item>
+        <item>Unda Žurevska</item>
+    </string-array>
+</resources>
